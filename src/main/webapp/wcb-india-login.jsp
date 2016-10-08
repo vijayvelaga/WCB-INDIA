@@ -9,14 +9,13 @@
 </head>
 <body>
 	<div class="loginDiv">
-	<h2>WCB-INDIA</h2>
+		<h2>WCB-INDIA</h2>
 		<form action="" class="loginForm">
-			<label>User Name :</label> 
-			<input type="text" name="userName"> 
-			<label>Password :</label> 
-			<input  type="password" name="securepwd">
+			<label>User Name :</label> <input type="text" name="userName">
+			<label>Password :</label> <input type="password" name="securepwd">
 			<div style="padding-top: 20px;">
-			<input type="button" value="Login" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="reset" value="Cancel" >
+				<input type="button" value="Login">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input
+					type="reset" value="Cancel">
 			</div>
 		</form>
 	</div>
