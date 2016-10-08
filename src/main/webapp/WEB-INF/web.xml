@@ -6,7 +6,7 @@
 	<display-name>WCB-INDIA</display-name>
 
 	<welcome-file-list>
-		<welcome-file>>wcb-india-login.jsp</welcome-file>
+		<welcome-file>wcb-india-login.jsp</welcome-file>
 	</welcome-file-list>
 
 </web-app>
