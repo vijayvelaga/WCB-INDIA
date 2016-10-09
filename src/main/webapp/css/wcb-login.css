@@ -6,41 +6,47 @@ body {
 }
 
 .loginDiv {
-	
-	
-	
-	
-	
 	position: inherit;
-	top: 100px;	
-	background: #B0C4DE; border-radius : 2px; display : inline-block; height :
-	auto; margin : 1rem; position : relative; width : auto;
-	 box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+	top: 100px;
+	background: #B0C4DE;
+	border-radius: 2px;
+	display: inline-block;
+	height: auto;
+	margin: 1rem;
+	position: relative;
+	width: auto;
+	box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px
+		rgba(0, 0, 0, 0.22);
 	border-radius: 2px;
 	display: inline-block;
 	height: 250px;
-	margin: 1rem;	
+	margin: 1rem;
 	width: 250px;
 }
 
 .loginForm {
-	font-family:serif;
-	font-size:medium;
+	font-family: serif;
+	font-size: medium;
 	display: inline-block;
 	width: 160px;
 	text-align: left;
 }
 
 .registerDiv {
-	
 	position: inherit;
-	top: 60px;	
-	background: #B0C4DE; border-radius : 2px; display : inline-block; height :
-	auto; margin : 1rem; position : relative; width : auto;
-	 box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+	top: 60px;
+	background: #B0C4DE;
+	border-radius: 2px;
+	display: inline-block;
+	height: auto;
+	margin: 1rem;
+	position: relative;
+	width: auto;
+	box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px
+		rgba(0, 0, 0, 0.22);
 	border-radius: 2px;
 	display: inline-block;
 	height: 480px;
-	margin: 1rem;	
+	margin: 1rem;
 	width: 450px;
 }
